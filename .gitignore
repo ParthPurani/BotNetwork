@@ -1,0 +1,6 @@
+.venv
+venv/
+venv.bak/
+tests.py
+.vscode
+vscode/

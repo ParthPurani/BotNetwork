@@ -1,0 +1,9 @@
+{
+    "keyVaultName": "kv-botSecrets",
+    "appSecretName": "reddit-app-secret",
+    "appClientId": "reddit-app-client-id",
+    "botSecretName": "reddit-bot-secret",
+    "redditUsername": "reddit-username",
+    "redditPassword": "reddit-password",
+    "subreddits": ["TooAfraidToAsk", "memes", "nextfuckinglevel"]
+}
